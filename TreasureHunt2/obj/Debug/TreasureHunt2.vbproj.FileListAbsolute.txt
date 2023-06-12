@@ -1,0 +1,7 @@
+D:\L4 DC SETION 150\ITP\TreasureHunt2\TreasureHunt2\bin\Debug\TreasureHunt2.exe.config
+D:\L4 DC SETION 150\ITP\TreasureHunt2\TreasureHunt2\obj\Debug\TreasureHunt2.frmFirst.resources
+D:\L4 DC SETION 150\ITP\TreasureHunt2\TreasureHunt2\obj\Debug\TreasureHunt2.frmTreasureHunt.resources
+D:\L4 DC SETION 150\ITP\TreasureHunt2\TreasureHunt2\obj\Debug\TreasureHunt2.frmgameinstructions.resources
+D:\L4 DC SETION 150\ITP\TreasureHunt2\TreasureHunt2\obj\Debug\TreasureHunt2.frmHighScores.resources
+D:\L4 DC SETION 150\ITP\TreasureHunt2\TreasureHunt2\obj\Debug\TreasureHunt2.Resources.resources
+D:\L4 DC SETION 150\ITP\TreasureHunt2\TreasureHunt2\obj\Debug\TreasureHunt2.vbproj.GenerateResource.Cache

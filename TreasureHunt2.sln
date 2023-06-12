@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TreasureHunt", "TreasureHunt2\TreasureHunt.vbproj", "{6BBAEFC9-AEF2-4F4D-97D5-90FACC602F3E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "zTreasureHunt", "..\..\SetupTH\zTreasureHunt\zTreasureHunt.vdproj", "{2E6B4500-8ABE-41AA-9549-67C78D193CAE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\..\Setup\Setup1\Setup1.vdproj", "{6D3B6098-5AA2-48FB-A803-657327B08211}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupGame", "..\..\SetupGame\SetupGame\SetupGame.vdproj", "{BF748E7E-1312-4063-8C3A-DBC9BB6F4742}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setuppj", "..\..\SetupGame\SetupGame\Debug\Setuppj\Setuppj.vdproj", "{1C965631-862D-4B40-BFDC-5B67D8BBFA83}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupFile", "..\..\SetupFile\SetupFile\SetupFile.vdproj", "{C043E312-8167-4373-AE98-4F916626F43F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "setup game", "..\..\STF\setup game\setup game.vdproj", "{9FC68E45-21E3-4413-BE61-D46E3985EBC8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Tmsetup", "..\..\..\Java\tmsetup\Tmsetup\Tmsetup.vdproj", "{141C4D6A-2B1A-459D-B3DA-346C10C3A404}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SETUP", "..\..\..\..\Java\SETUP\SETUP\SETUP.vdproj", "{9830CDA4-7245-44A4-9677-10DCF66F454C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BBAEFC9-AEF2-4F4D-97D5-90FACC602F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBAEFC9-AEF2-4F4D-97D5-90FACC602F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBAEFC9-AEF2-4F4D-97D5-90FACC602F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBAEFC9-AEF2-4F4D-97D5-90FACC602F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6B4500-8ABE-41AA-9549-67C78D193CAE}.Debug|Any CPU.ActiveCfg = Debug
+		{2E6B4500-8ABE-41AA-9549-67C78D193CAE}.Release|Any CPU.ActiveCfg = Release
+		{6D3B6098-5AA2-48FB-A803-657327B08211}.Debug|Any CPU.ActiveCfg = Debug
+		{6D3B6098-5AA2-48FB-A803-657327B08211}.Release|Any CPU.ActiveCfg = Release
+		{BF748E7E-1312-4063-8C3A-DBC9BB6F4742}.Debug|Any CPU.ActiveCfg = Debug
+		{BF748E7E-1312-4063-8C3A-DBC9BB6F4742}.Release|Any CPU.ActiveCfg = Release
+		{1C965631-862D-4B40-BFDC-5B67D8BBFA83}.Debug|Any CPU.ActiveCfg = Debug
+		{1C965631-862D-4B40-BFDC-5B67D8BBFA83}.Release|Any CPU.ActiveCfg = Release
+		{C043E312-8167-4373-AE98-4F916626F43F}.Debug|Any CPU.ActiveCfg = Debug
+		{C043E312-8167-4373-AE98-4F916626F43F}.Release|Any CPU.ActiveCfg = Release
+		{9FC68E45-21E3-4413-BE61-D46E3985EBC8}.Debug|Any CPU.ActiveCfg = Debug
+		{9FC68E45-21E3-4413-BE61-D46E3985EBC8}.Release|Any CPU.ActiveCfg = Release
+		{141C4D6A-2B1A-459D-B3DA-346C10C3A404}.Debug|Any CPU.ActiveCfg = Debug
+		{141C4D6A-2B1A-459D-B3DA-346C10C3A404}.Release|Any CPU.ActiveCfg = Release
+		{9830CDA4-7245-44A4-9677-10DCF66F454C}.Debug|Any CPU.ActiveCfg = Debug
+		{9830CDA4-7245-44A4-9677-10DCF66F454C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ADE0D87-21CF-4E83-A0E9-742AD89136B1}
+	EndGlobalSection
+EndGlobal
